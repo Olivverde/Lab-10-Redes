@@ -35,4 +35,3 @@ class Sensors(object):
         json_aux['direccion_viento'] = wind
     
         return json.dumps(json_aux)
-        
